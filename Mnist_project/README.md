@@ -1,4 +1,4 @@
-## Mnist로 Deep Learning 기초 배우기
+## Mnist data for Deep Learning
 
 ### (1) fashion_mnist
 
@@ -6,4 +6,4 @@
 
 ### (2) mnist
 
-- pytorch로 하는 0 ~ 9 숫자 맞추기
+- pytorch로 하는 손글씨 0 ~ 9 숫자 맞추기
